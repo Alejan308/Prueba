@@ -1,0 +1,16 @@
+Test Case: Validar descarga de informe (RM-14)
+
+Estado del TC: No Superado
+
+Test Step:
+1- Abrir aplicación
+2- Seleccionar en la barra inferior "Progreso"
+3- Presionar en "Informes" en la esquina superior derecha de la pantalla.
+4- Presionar en las palabras azules al lado de “Mes”.
+5- Seleccionar "Febrero de 2023"
+6- Seleccionar "OK"
+7- Pulsar "Descargar"
+
+Test Result:
+Aparecerá un mensaje "Se descargó correctamente su informe"
+El informe se encontrará como archivo PDF en su móvil en Archivos > Descargas
